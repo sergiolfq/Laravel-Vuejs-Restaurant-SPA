@@ -2,10 +2,16 @@
 
 
 # Login
-
-# category edition
+![Balance Image ](public/images/doc/3.PNG)
 
 # new item validation
+![Balance Image ](public/images/doc/4.PNG)
+
+# Items by Category
+![Balance Image ](public/images/doc/2.PNG)
+
+# Categories (ADD, Delete and Edit)
+ ![Balance Image ](public/images/doc/1.PNG)
 
 # 
 
